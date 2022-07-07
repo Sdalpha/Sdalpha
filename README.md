@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sdalpha
-- 👀 I’m interested in ... Front-end web development
-- 🌱 I’m currently learning ...ReactJS, JavaScript
+- 👀 I am a Frontend web development
+- 🌱 I’m currently learning ...ReactJS And Django
 - 💞️ I’m looking to collaborate on ...some Front-end project
 - 📫 How to reach me ...`
 E-mail : satoxonik@gmail.com
